@@ -25,3 +25,10 @@ A/B test analysis of an ad campaign: hypotheses, sample size, significance, and 
 **How to reproduce:**
 1. Download the dataset from Kaggle into `data/raw/`
 2. Run the notebook in `notebooks/`
+
+## Definition of Done
+- [ ] Hypotheses stated (H0 and H1)
+- [ ] Sample size and power calculation
+- [ ] Significance test and confidence interval
+- [ ] Checks: day/hour segments, group imbalance
+- [ ] Plain-language ship / don't-ship recommendation
